@@ -48,7 +48,7 @@ function addTodo(){
 
     //Trash btn
     const trashButton = document.createElement("button");
-    trashButton.innerHTML = '<i class="fa fa-trash-o"></i>';
+    trashButton.innerHTML = '<i class="fa fa-trash"></i>';
     trashButton.classList.add("trash-btn");
     trashButton.classList.add("btni");
     // trashButton.classList.add("btn-danger");
